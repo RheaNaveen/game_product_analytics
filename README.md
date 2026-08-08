@@ -2,6 +2,10 @@
 
 Product analytics project analyzing player retention, early engagement, conversion, and monetization to evaluate an A/B test and identify actionable product insights.
 
+## Dashboard
+
+![Game Product Analytics Dashboard](dashboard.png)
+
 ## Objective
 
 The objective of this analysis is to understand player behavior during the first week, measure retention and monetization, and determine whether the A/B test produced a meaningful improvement in key product metrics.
